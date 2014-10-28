@@ -1,37 +1,21 @@
 title: Hello World
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [trobuleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+欢迎访问比特和原子的碎碎念 [Bit n Atom](http://xintent.com)
 
-## Quick Start
+## Blog关注
 
-### Create a new post
+### Maker 创客
 
-``` bash
-$ hexo new "My New Post"
-```
+Raspberry Pi, Arduino [Refer](http://elinux.org)
 
-More info: [Writing](http://hexo.io/docs/writing.html)
+### IoT 物联网
 
-### Run server
+Internet of Things 
 
-``` bash
-$ hexo server
-```
+### Computer Vision 计算机视觉
 
-More info: [Server](http://hexo.io/docs/server.html)
+More info: [Refer](http://www.cs.ubc.ca/~lowe/vision.html)
 
-### Generate static files
+### Robotics 自动化控制和机器人
 
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
+More info: [Refer](http://v.163.com/special/opencourse/robotics.html)
