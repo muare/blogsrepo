@@ -87,6 +87,9 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: git@github.com:muare/muare.github.io.git
+- type: github
+  repo: git@github.com:muare/muare.github.io.git
   branch: master
+- type: github
+  repo: git@gitcafe.com:muare/muare.git
+  branch: gitcafe-pages
