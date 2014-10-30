@@ -3,7 +3,7 @@ date: 2014-10-30 23:30:20
 tags: startup
 ---
 Building a Successful Internet Century Venture
-
+<!--more-->
 # Only way for business to consistently succeed
 
 attract smart creative employees and create an environment where they can THRIVE at scale.

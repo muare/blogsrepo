@@ -1,7 +1,7 @@
 title: Hello World
 ---
 欢迎访问比特和原子的碎碎念 [Bit n Atom](http://xintent.com)
-
+<!--more-->
 ## Blog关注
 
 ### Maker 创客
@@ -10,7 +10,7 @@ Raspberry Pi, Arduino [Refer](http://elinux.org)
 
 ### IoT 物联网
 
-Internet of Things 
+Internet of Things
 
 ### Computer Vision 计算机视觉
 
