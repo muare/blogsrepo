@@ -1,4 +1,5 @@
 title: Hello World
+date: 2014-10-29 22:14:18
 ---
 欢迎访问比特和原子的碎碎念 [Bit n Atom](http://xintent.com)
 <!--more-->

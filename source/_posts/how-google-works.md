@@ -1,8 +1,10 @@
 title: how google works
 date: 2014-10-30 23:30:20
-tags: startup
+tags:
+- startup
 ---
 Building a Successful Internet Century Venture
+![how google works](http://xintent-blog.qiniudn.com/xintent-blogs-photos938AAA955F2B4108B8232DEAD666D49E.jpg)
 <!--more-->
 # Only way for business to consistently succeed
 
